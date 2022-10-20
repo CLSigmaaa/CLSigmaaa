@@ -69,7 +69,7 @@
   <li>Ubuntu</li>
   <li>W7</li>
   <li>W10</li>
-  <li>>WS 2016</li>
+  <li>WS 2016</li>
   <li>WS 2019</li>
   <li>CISCO IOS</li>
 </ul>
